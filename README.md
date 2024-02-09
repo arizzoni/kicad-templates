@@ -9,6 +9,7 @@ The following templates are included in this repository:
     - Others to be added in the future as needed
 
 ![US Ledger Template, Rev. A]("./test/ledger/ledger.svg")
+
 ![US Letter Template, Rev. A]("./test/letter/letter.svg")
 
 #### Alessandro Rizzoni
