@@ -8,9 +8,9 @@ The following templates are included in this repository:
     - US Letter Template, Rev. A
     - Others to be added in the future as needed
 
-<img src="./test/ledger/ledger.svg">
+![](<img src="./test/ledger/ledger.svg">)
 
-<img src="./test/letter/letter.svg">
+![](<img src="./test/letter/letter.svg">)
 
 #### Alessandro Rizzoni
 ###### 2026-06-24
